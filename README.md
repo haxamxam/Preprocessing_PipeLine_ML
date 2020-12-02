@@ -1,6 +1,6 @@
-# Preprocessing_PipeLine_ML
+# Preprocessing Data PipeLine for Machine Learning
 
-Data Cleaning pipeline for preprocessing data of three Regression ML models and model evaluation
+Data Cleaning pipeline to preprocess data for three Regression ML models and Model Evaluation
 
 
 ## Pre-processing Pipeline
