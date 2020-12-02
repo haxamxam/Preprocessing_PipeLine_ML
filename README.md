@@ -83,7 +83,7 @@ Square Root of MSE of Linear Regression: 272007.94185983855
 
 MAE of Linear Regression: 209399.89834611764
 
-## CDF
+## Cumulative Distribution Function (CDF)
 
 CDF is used to determine the probability that a random observation that is taken from the population will be less than or equal to a certain value. We can also use this information to determine the probability that an observation will be greater than a certain value, or between two values. It will enable us to determine the best performing ML model.
 
