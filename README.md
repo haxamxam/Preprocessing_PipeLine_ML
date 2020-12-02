@@ -85,5 +85,7 @@ MAE of Linear Regression: 209399.89834611764
 
 ## CDF
 
+CDF is used to determine the probability that a random observation that is taken from the population will be less than or equal to a certain value. We can also use this information to determine the probability that an observation will be greater than a certain value, or between two values. It will enable us to determine the best performing ML model.
+
 ![Index](https://github.com/haxamxam/Preprocessing_PipeLine_ML/blob/main/.ipynb_checkpoints/index.png)
 
