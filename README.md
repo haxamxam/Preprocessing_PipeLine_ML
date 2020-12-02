@@ -62,7 +62,7 @@ for q in [10, 50, 90]:
     print('XGBoost_AE-at-' + str(q) + 'th-percentile: '
       + str(np.percentile(a=abs_err_xgboost, q=q)))
 ```
-validating model
+'validating model'
 
 R2 score of XGBoost = 0.81
 
